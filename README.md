@@ -22,7 +22,7 @@ UPDATE: July 13, 2017 - The code has been updated to support 3D points. Although
 <img src='https://raw.githubusercontent.com/SushantKafle/DBSCAN/master/img/figure_3D.png'>
 
 
-
+[![Run on Repl.it](https://repl.it/badge/github/SushantKafle/DBSCAN)](https://repl.it/github/SushantKafle/DBSCAN)
 
 
 
